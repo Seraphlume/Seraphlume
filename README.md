@@ -1,7 +1,9 @@
 <div align="center">
   <!-- Ganti URL di bawah dengan URL gambar banner pribadimu -->
-  <img src="https://example.com/your-banner-image.jpg" alt="Sera's Banner" width="100%">
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/Seraphlume/my-assets/main/Seraphlume.png" alt="Sera's Banner" width="100%">
 </div>
+
 
 # Hi, I'm Sera! 👋
 
