@@ -1,6 +1,6 @@
 <div align="center">
  <div align="center">
-  <img src="https://raw.githubusercontent.com/Seraphlume/my-assets/main/Seraphlume.png" alt="Sera's Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Seraphlume/my-assets/main/Seraphlume(1).png" alt="Sera's Banner" width="100%">
 </div>
 
 
