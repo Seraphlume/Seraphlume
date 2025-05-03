@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Ganti URL di bawah dengan URL gambar banner pribadimu -->
  <div align="center">
   <img src="https://raw.githubusercontent.com/Seraphlume/my-assets/main/Seraphlume.png" alt="Sera's Banner" width="100%">
 </div>
@@ -12,7 +11,7 @@ I'm an enthusiastic beginner diving into the exciting world of **Web3** and **Bl
 ---
 
 ## About Me
-- **Focus:** Enhancing my coding skills while developing decentralized applications.
+- **Focus:** Starting my coding journey from scratch while exploring the basics of decentralized applications.
 - **Learning:** Exploring Solidity, Rust, and other emerging Web3 technologies.
 - **Goal:** Collaborate and contribute to the booming blockchain community.
 
@@ -25,7 +24,6 @@ For professional inquiries or technical discussions, connect with me on Discord:
 
 Let’s build the future of Web3 together! 🚀
 
-<!-- Optional: GitHub Stats (remove or adjust this block if not needed) -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seraphlume&show_icons=true&theme=blue-green" alt="Sera's GitHub Stats">
 </div>
